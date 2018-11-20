@@ -1,6 +1,6 @@
 const driver = 'bob';
 
-console.log(driver);
+console.log(this);
 
 //   describe('console.log()', function () {
 //     const spy = sinon.spy(console, 'log');
