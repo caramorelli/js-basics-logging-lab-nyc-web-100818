@@ -1,7 +1,6 @@
 const driver = 'bob';
 
-
-
+console.log(driver)
 
 // describe('driver', function () {
 //     it('sets a variable driver equal to bob', function () {
