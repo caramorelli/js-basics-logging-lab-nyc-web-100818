@@ -1,12 +1,6 @@
 const driver = 'bob';
 
-console.log(driver)
-
-// describe('driver', function () {
-//     it('sets a variable driver equal to bob', function () {
-//       expect(driver).to.equal('bob');
-//     });
-//   });
+console.log(driver);
 
 //   describe('console.log()', function () {
 //     const spy = sinon.spy(console, 'log');
